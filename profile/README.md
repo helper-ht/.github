@@ -1,6 +1,6 @@
-# 🏥 Helper 2026: Strategic Engineering Hub
+# 🏥 Helper
 
-Welcome to the central repository for **Helper 2026**. This project transforms healthcare into a **longitudinal journey**, ensuring continuous, data-driven, and personalized care.
+Welcome to the central repository for **Helper**. This project transforms healthcare into a **longitudinal journey**, ensuring continuous, data-driven, and personalized care.
 
 ## 🎯 Mission & Vision
 * **Mission:** Leading healthcare technology for longitudinal patient monitoring.
