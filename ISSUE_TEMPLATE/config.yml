@@ -1,0 +1,16 @@
+# Disables the "Open a blank issue" button to maintain project standards
+blank_issues_enabled: false
+
+# Provides alternative paths for non-task-related communication
+contact_links:
+  - name: "🙋 Architecture & Tech Questions"
+    url: "https://github.com/orgs/helper-ht/discussions"
+    about: "For doubts about where to put a file or how to use a specific library (TanStack Query, Zustand, etc.)."
+
+  - name: "💡 Ideas & Brainstorming"
+    url: "https://github.com/orgs/helper-ht/discussions/categories/ideas"
+    about: "Propose new tools or experiments before they become a formal Feature Request."
+
+  - name: "🔒 Security Vulnerability"
+    url: "https://github.com/orgs/helper-ht/security/advisories/new"
+    about: "Please report security issues privately instead of opening a public issue."
