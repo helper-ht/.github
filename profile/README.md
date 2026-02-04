@@ -1,25 +1,38 @@
-# 🏥 Helper 2026
+# 🏥 Helper 2026: Strategic Engineering Hub
 
-Welcome to the central repository for **Helper 2026**. This project is dedicated to transforming healthcare from a post-consultation focus to a **longitudinal journey**, ensuring that the relationship between health professionals and patients is continuous, data-driven, and personalized.
+Welcome to the central repository for **Helper 2026**. This project transforms healthcare into a **longitudinal journey**, ensuring continuous, data-driven, and personalized care.
 
 ## 🎯 Mission & Vision
-
-* **Mission:** To be the leading healthcare technology for longitudinal patient monitoring.
-* **Vision:** To leverage cutting-edge technology to ensure the best patient outcomes and process efficiency.
+* **Mission:** Leading healthcare technology for longitudinal patient monitoring.
+* **Vision:** Utilizing cutting-edge tech (React, Spring Boot, Terraform) for patient outcomes.
 * **Core Values:** Transparency, Integrity, and Patient-Centricity.
 
 ---
 
+## 🏗️ Technical Ecosystem & Standards
+
+We maintain a high engineering bar across three core pillars:
+
+### 1. Frontend (React)
+* **Architecture:** Feature-based modularity.
+* **Standards:** 100% test coverage (Vitest), Atomic Design (Storybook), and strict ESLint boundaries.
+
+### 2. Backend (Java / Spring Boot)
+* **Architecture:** Clean Architecture / Hexagonal principles.
+* **Standards:** JUnit/Mockito for unit testing, integration tests for API contracts, and Checkstyle for code consistency.
+
+### 3. Infrastructure (Terraform)
+* **Approach:** Infrastructure as Code (IaC).
+* **Standards:** Modular Terraform code, automated plan/apply via CI/CD, and "random provider" usage for secure, auto-generated secrets.
+
+---
+
 ## 📋 Global Templates
+These templates are applied to all repositories in the `helper-ht` organization.
 
-This repository provides standardized templates for the entire organization:
-
-* [Bug Report](https://www.google.com/search?q=.github/ISSUE_TEMPLATE/bug_report.md)
-* [Feature Request](https://www.google.com/search?q=.github/ISSUE_TEMPLATE/feature_request.md)
-* [Technical Task](https://www.google.com/search?q=.github/ISSUE_TEMPLATE/task.md)
+* **🐛 Bug Report:** For technical defects across Frontend, Backend, or Infra.
+* **🚀 Feature Request:** For new functionalities or infrastructure modules.
+* **⚙️ Technical Task:** For refactoring, maintenance, or CI/CD improvements.
 
 ---
-
 *Maintained by the Helper 2026 Engineering Team.*
-
----
